@@ -46,13 +46,6 @@ and copy-to-clipboard for generated code.
 
 `React` `Gemini API` `OAuth`
 
-### [T20-PlayZone](https://github.com/jatinupadhyay27/T20-PlayZone) — freelance client project
-A live sports and turf booking site. Pulls real-time match data from an external
-sports API and surfaces fixtures, scores and booking details, with a direct
-WhatsApp handoff so enquiries reach the owner without a form or a call centre.
-
-`React` `TypeScript` `REST APIs`
-
 ---
 
 ## Stack
